@@ -11,6 +11,8 @@ namespace Exemple
         static void Main(string[] args)
         {
             Console.WriteLine("primera linia");
+            Console.WriteLine("segona linia");
+            Console.WriteLine("tercera linia");
         }
     }
 }
